@@ -1,4 +1,4 @@
-# Lamoda - Online Store
+# API&SPA
 
 ![APA and SPA](./image.png)
 
